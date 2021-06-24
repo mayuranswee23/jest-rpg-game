@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayuranswee23/jest-rpg-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayuranswee23/jest-rpg-game/issues"
+  },
+  "homepage": "https://github.com/mayuranswee23/jest-rpg-game#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
