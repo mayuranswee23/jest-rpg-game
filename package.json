@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mayuranswee23/jest-rpg-game#readme",
   "devDependencies": {
     "jest": "^27.0.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
   }
 }
